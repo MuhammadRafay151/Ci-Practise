@@ -1,3 +1,2 @@
 language: csharp
 solution: Ci Practise.sln
-os: windows
